@@ -10,4 +10,7 @@
 
 ## Raspberry-Pi 한글다운
    ```
-   ㅁㄴㅇㅁㄴㅇ
+   sudo apt update
+   sudo apt upgrade
+   sudo apt install -y fonts-unfonts-core
+   sudo apt install ibus-hangul
