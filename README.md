@@ -1,1 +1,1 @@
-# academy_computer
+# 한결 컴퓨터 학원
