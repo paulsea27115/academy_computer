@@ -9,6 +9,4 @@
 - 링크 : https://www.raspberrypi.com/software/
 
 ## Raspberry-Pi 한글다운
-  ㅁㄴㅇㅁ넝ㅁㄴㅇㅁㄴ암
-  ㅁ니아ㅓㄴㅁㅇㄹㄴㅇ
-  ㄴㅇ러농ㄹ
+   sdfsdf
