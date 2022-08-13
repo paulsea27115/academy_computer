@@ -8,3 +8,4 @@
 ## Raspberry-Pi Imager link
 - 링크 : https://www.raspberrypi.com/software/
 
+## Raspberry-Pi 한글다운
